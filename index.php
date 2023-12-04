@@ -1,3 +1,8 @@
+<?php
+$tests = [];
+foreach ($tests as $test) {
+    $return = $test;
+}
 <!DOCTYPE html>
 <html lang="en">
     <head>
