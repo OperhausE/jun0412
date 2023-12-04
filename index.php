@@ -3,6 +3,11 @@ $tests = [];
 foreach ($tests as $test) {
     $return = $test;
 }
+
+$first = 1;
+$second = 2;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
